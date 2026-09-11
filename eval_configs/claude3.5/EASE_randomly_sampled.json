@@ -1,0 +1,7 @@
+{
+    "model_name": "EASE",
+    "data_dir": "./output",
+    "data_file": "EASE_claude3.5_randomly_sampled.json",
+    "save_dir": "./result",
+    "setting": "noisy"
+}

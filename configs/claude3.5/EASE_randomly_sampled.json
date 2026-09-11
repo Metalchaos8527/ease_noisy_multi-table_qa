@@ -1,0 +1,12 @@
+{
+    "anthropic_model": "claude-3-5-haiku-20241022",
+    "anthropic_api_key": "",
+    "data_setting": "noisy_table",
+    "save_dir": "./output/",
+    "save_name": "EASE_claude3.5_randomly_sampled.json",
+    "data_dir": "./data/final_data/randomly_sampled.json",
+    "max_tokens": 8192,
+    "temperature": 0.3,
+    "batch_size": 4,
+    "seed": 144
+}

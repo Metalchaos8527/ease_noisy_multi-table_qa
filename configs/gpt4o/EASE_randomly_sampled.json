@@ -1,0 +1,12 @@
+{
+    "openai_model": "gpt-4o-2024-08-06",
+    "openai_api_key": "",
+    "data_setting": "noisy_table",
+    "save_dir": "./output/",
+    "save_name": "EASE_gpt4o_randomly_sampled.json",
+    "data_dir": "./data/final_data/randomly_sampled.json",
+    "max_tokens": 16383,
+    "temperature": 0.3,
+    "batch_size": 4,
+    "seed": 144
+}
